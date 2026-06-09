@@ -5,7 +5,7 @@ import AuthGuard from './auth-guard';
 import { AppStateProvider } from '@/hooks/use-app-state';
 import { ThemeProvider } from '@/components/theme-provider';
 
-// 1. REBRAND TO EDU-METRICS
+
 export const metadata: Metadata = {
   title: 'Edu-Metrics',
   description: 'A modern School Management and Analytics Platform',
